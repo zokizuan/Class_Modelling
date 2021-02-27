@@ -1,0 +1,128 @@
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\bin\Debug\net5.0\excercise.exe
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\bin\Debug\net5.0\excercise.deps.json
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\bin\Debug\net5.0\excercise.runtimeconfig.json
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\bin\Debug\net5.0\excercise.runtimeconfig.dev.json
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\bin\Debug\net5.0\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\bin\Debug\net5.0\ref\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\bin\Debug\net5.0\excercise.pdb
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\obj\Debug\net5.0\excercise.csprojAssemblyReference.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\obj\Debug\net5.0\excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\obj\Debug\net5.0\excercise.AssemblyInfoInputs.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\obj\Debug\net5.0\excercise.AssemblyInfo.cs
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\obj\Debug\net5.0\excercise.csproj.CoreCompileInputs.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\obj\Debug\net5.0\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\obj\Debug\net5.0\ref\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\obj\Debug\net5.0\excercise.pdb
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\obj\Debug\net5.0\excercise.genruntimeconfig.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\2\bin\Debug\net5.0\excercise.exe
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\2\bin\Debug\net5.0\excercise.deps.json
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\2\bin\Debug\net5.0\excercise.runtimeconfig.json
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\2\bin\Debug\net5.0\excercise.runtimeconfig.dev.json
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\2\bin\Debug\net5.0\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\2\bin\Debug\net5.0\ref\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\2\bin\Debug\net5.0\excercise.pdb
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\2\obj\Debug\net5.0\excercise.csprojAssemblyReference.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\2\obj\Debug\net5.0\excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\2\obj\Debug\net5.0\excercise.AssemblyInfoInputs.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\2\obj\Debug\net5.0\excercise.AssemblyInfo.cs
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\2\obj\Debug\net5.0\excercise.csproj.CoreCompileInputs.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\2\obj\Debug\net5.0\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\2\obj\Debug\net5.0\ref\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\2\obj\Debug\net5.0\excercise.pdb
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\2\obj\Debug\net5.0\excercise.genruntimeconfig.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\3\bin\Debug\net5.0\excercise.exe
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\3\bin\Debug\net5.0\excercise.deps.json
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\3\bin\Debug\net5.0\excercise.runtimeconfig.json
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\3\bin\Debug\net5.0\excercise.runtimeconfig.dev.json
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\3\bin\Debug\net5.0\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\3\bin\Debug\net5.0\ref\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\3\bin\Debug\net5.0\excercise.pdb
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\3\obj\Debug\net5.0\excercise.csprojAssemblyReference.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\3\obj\Debug\net5.0\excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\3\obj\Debug\net5.0\excercise.AssemblyInfoInputs.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\3\obj\Debug\net5.0\excercise.AssemblyInfo.cs
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\3\obj\Debug\net5.0\excercise.csproj.CoreCompileInputs.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\3\obj\Debug\net5.0\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\3\obj\Debug\net5.0\ref\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\3\obj\Debug\net5.0\excercise.pdb
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\3\obj\Debug\net5.0\excercise.genruntimeconfig.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\4\bin\Debug\net5.0\excercise.exe
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\4\bin\Debug\net5.0\excercise.deps.json
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\4\bin\Debug\net5.0\excercise.runtimeconfig.json
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\4\bin\Debug\net5.0\excercise.runtimeconfig.dev.json
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\4\bin\Debug\net5.0\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\4\bin\Debug\net5.0\ref\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\4\bin\Debug\net5.0\excercise.pdb
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\4\obj\Debug\net5.0\excercise.csprojAssemblyReference.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\4\obj\Debug\net5.0\excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\4\obj\Debug\net5.0\excercise.AssemblyInfoInputs.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\4\obj\Debug\net5.0\excercise.AssemblyInfo.cs
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\4\obj\Debug\net5.0\excercise.csproj.CoreCompileInputs.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\4\obj\Debug\net5.0\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\4\obj\Debug\net5.0\ref\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\4\obj\Debug\net5.0\excercise.pdb
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\4\obj\Debug\net5.0\excercise.genruntimeconfig.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\5\bin\Debug\net5.0\excercise.exe
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\5\bin\Debug\net5.0\excercise.deps.json
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\5\bin\Debug\net5.0\excercise.runtimeconfig.json
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\5\bin\Debug\net5.0\excercise.runtimeconfig.dev.json
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\5\bin\Debug\net5.0\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\5\bin\Debug\net5.0\ref\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\5\bin\Debug\net5.0\excercise.pdb
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\5\obj\Debug\net5.0\excercise.csprojAssemblyReference.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\5\obj\Debug\net5.0\excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\5\obj\Debug\net5.0\excercise.AssemblyInfoInputs.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\5\obj\Debug\net5.0\excercise.AssemblyInfo.cs
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\5\obj\Debug\net5.0\excercise.csproj.CoreCompileInputs.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\5\obj\Debug\net5.0\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\5\obj\Debug\net5.0\ref\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\5\obj\Debug\net5.0\excercise.pdb
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\5\obj\Debug\net5.0\excercise.genruntimeconfig.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\6\bin\Debug\net5.0\excercise.exe
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\6\bin\Debug\net5.0\excercise.deps.json
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\6\bin\Debug\net5.0\excercise.runtimeconfig.json
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\6\bin\Debug\net5.0\excercise.runtimeconfig.dev.json
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\6\bin\Debug\net5.0\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\6\bin\Debug\net5.0\ref\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\6\bin\Debug\net5.0\excercise.pdb
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\6\obj\Debug\net5.0\excercise.csprojAssemblyReference.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\6\obj\Debug\net5.0\excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\6\obj\Debug\net5.0\excercise.AssemblyInfoInputs.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\6\obj\Debug\net5.0\excercise.AssemblyInfo.cs
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\6\obj\Debug\net5.0\excercise.csproj.CoreCompileInputs.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\6\obj\Debug\net5.0\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\6\obj\Debug\net5.0\ref\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\6\obj\Debug\net5.0\excercise.pdb
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\6\obj\Debug\net5.0\excercise.genruntimeconfig.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7\bin\Debug\net5.0\excercise.exe
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7\bin\Debug\net5.0\excercise.deps.json
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7\bin\Debug\net5.0\excercise.runtimeconfig.json
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7\bin\Debug\net5.0\excercise.runtimeconfig.dev.json
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7\bin\Debug\net5.0\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7\bin\Debug\net5.0\ref\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7\bin\Debug\net5.0\excercise.pdb
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7\obj\Debug\net5.0\excercise.csprojAssemblyReference.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7\obj\Debug\net5.0\excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7\obj\Debug\net5.0\excercise.AssemblyInfoInputs.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7\obj\Debug\net5.0\excercise.AssemblyInfo.cs
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7\obj\Debug\net5.0\excercise.csproj.CoreCompileInputs.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7\obj\Debug\net5.0\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7\obj\Debug\net5.0\ref\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7\obj\Debug\net5.0\excercise.pdb
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7\obj\Debug\net5.0\excercise.genruntimeconfig.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7 - Copy\bin\Debug\net5.0\excercise.exe
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7 - Copy\bin\Debug\net5.0\excercise.deps.json
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7 - Copy\bin\Debug\net5.0\excercise.runtimeconfig.json
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7 - Copy\bin\Debug\net5.0\excercise.runtimeconfig.dev.json
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7 - Copy\bin\Debug\net5.0\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7 - Copy\bin\Debug\net5.0\ref\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7 - Copy\bin\Debug\net5.0\excercise.pdb
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7 - Copy\obj\Debug\net5.0\excercise.csprojAssemblyReference.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7 - Copy\obj\Debug\net5.0\excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7 - Copy\obj\Debug\net5.0\excercise.AssemblyInfoInputs.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7 - Copy\obj\Debug\net5.0\excercise.AssemblyInfo.cs
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7 - Copy\obj\Debug\net5.0\excercise.csproj.CoreCompileInputs.cache
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7 - Copy\obj\Debug\net5.0\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7 - Copy\obj\Debug\net5.0\ref\excercise.dll
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7 - Copy\obj\Debug\net5.0\excercise.pdb
+C:\Users\Gladiator\Documents\Github\C_sharp\excercise\7 - Copy\obj\Debug\net5.0\excercise.genruntimeconfig.cache

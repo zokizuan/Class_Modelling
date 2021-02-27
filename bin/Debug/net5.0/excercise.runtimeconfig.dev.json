@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Gladiator\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Gladiator\\.nuget\\packages"
+    ]
+  }
+}
